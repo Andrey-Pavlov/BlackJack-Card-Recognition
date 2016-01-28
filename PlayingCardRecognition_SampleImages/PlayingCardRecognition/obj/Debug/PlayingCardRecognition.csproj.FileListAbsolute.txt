@@ -1,0 +1,14 @@
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\PlayingCardRecognition.dll
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\PlayingCardRecognition.pdb
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.dll
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.Imaging.dll
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.Math.dll
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.xml
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.Imaging.xml
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\bin\Debug\AForge.Math.xml
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.csprojResolveAssemblyReference.cache
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.ImagePanel.resources
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.Properties.Resources.resources
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.csproj.GenerateResource.Cache
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.dll
+C:\Cards-Recognition\PlayingCardRecognition_SampleImages\PlayingCardRecognition\obj\Debug\PlayingCardRecognition.pdb
